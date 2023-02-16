@@ -12,5 +12,7 @@ style=width:200px;height:200px/>
 - 점포당 인구수가 많은 곳을 선택해서 스타벅스 본사에 신규 매장 입점을 제안한다.
 
 <결과>
-- 첨부한 파이썬 코딩 결과물 Fiqure_1에서 "신동"과 "정자동"이 점포당 인구수가 가장 많으므로 여기에 스타벅스 신규입점을 권고한다.
+- <img src='Figure_1.png'
+   style=width:200px;height:200px/> 
+  
 </body>
