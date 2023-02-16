@@ -1,6 +1,8 @@
 # 수원 스타벅스 점포당 인구수
 <img src='star.png'
 style=width:200px;height:200px/>
+<img src='star.png'
+style=width:200px;height:200px/>
 <body>
   수원지역의 스타벅스 매장수를 조사하고 공공데이터로 점포당 인구수를 파악한다
 
@@ -11,3 +13,4 @@ style=width:200px;height:200px/>
 
 <결과>
 - 첨부한 파이썬 코딩 결과물 Fiqure_1에서 "신동"과 "정자동"이 점포당 인구수가 가장 많으므로 여기에 스타벅스 신규입점을 권고한다.
+</body>
