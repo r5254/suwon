@@ -13,6 +13,6 @@ style=width:200px;height:200px/>
 
 <결과>
 - <img src='Figure_1.png'
-   style=width:200px;height:200px/> 
+   style=width:100px;height:100px/> 
   
 </body>
