@@ -12,7 +12,7 @@ style=width:200px;height:200px/>
 - 점포당 인구수가 많은 곳을 선택해서 스타벅스 본사에 신규 매장 입점을 제안한다.
 
 <결과: Figure_1 첨부>
-- <img src='Figure_1.png'
-   style=width:300px;height:300px/> 
+<img src='Figure_1.png'
+ style=width:300px;height:300px/> 
   
 </body>
