@@ -24,13 +24,13 @@ dong = ["영통동",
     "우만동",
     "매산동"
     ]
-aa =[]
+spop =[]
 for row in data :
     if (row[4] != "") :
-        aa.append(float(row[4]))
+        spop.append(float(row[4]))
 plt.title("수원지역 스타벅스 점포당 인구수") #큰제목
 plt.xlabel("행정동")  #x축 제목
 plt.ylabel("점포당 인구수") #y축제목
-plt.plot(dong, aa)
-plt.scatter(dong, aa)
+plt.plot(dong, spop)
+plt.scatter(dong, spop)
 plt.show()
