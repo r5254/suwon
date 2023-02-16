@@ -1,7 +1,7 @@
 # 수원 스타벅스 점포당 인구수
-<img src='star.png'
-style=width:200px;height:200px/>
 <img src='suwon.png'
+style=width:200px;height:200px/>
+<img src='star.png'
 style=width:200px;height:200px/>
 <body>
   수원지역의 스타벅스 매장수를 조사하고 공공데이터로 점포당 인구수를 파악한다
