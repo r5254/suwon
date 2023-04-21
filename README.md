@@ -14,6 +14,5 @@ style=width:200px;height:200px/>
 
 <결과: Figure_1 첨부>
 <img src='Figure_1.png'
- style=width:300px;height:300px/> 
-  
+ style=width:300px;height:300px/>   
 </body>
