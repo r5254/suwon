@@ -10,7 +10,7 @@ style=width:200px;height:200px/>
 * 점포당 인구수가 많은 곳을 선택해서 스타벅스 신규 매장 입점을 고려한다.
 * 지역별 소득수준, 주 소비층 인구 등 추가 데이터를 수집하여 결론을 검증할 필요가 있다
 
-<결과: Figure_1 첨부>
+>결과: Figure_1 첨부
 <img src='Figure_1.png'
  style=width:300px;height:300px/>   
 </body>
